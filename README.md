@@ -99,7 +99,7 @@ Wind speed less than 4.5 m/s
 
 Zero cloudiness
 
-###NOTE
+### NOTE
 Feel free to adjust your specifications but make sure to set a reasonable limit to the number of rows returned by your API requests.
 
 Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
